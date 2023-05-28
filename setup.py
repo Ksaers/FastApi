@@ -3,8 +3,8 @@ from setuptools import setup
 setup(
     name='app-example',
     version='0.0.1',
-    author='Anton K',
-    author_email='kakkazak@gmail.com',
+    author='Andrey M',
+    author_email='mihalev.andrey77@gmail.com',
     description='FastApi app',
     install_requires=[
         'fastapi==0.70.0',
