@@ -1,7 +1,7 @@
-### FastApi and Docker example
+### FastApi 
 Clone this repo:
 ```
-git clone git@github.com:kazak600/fastapi-app-example.git && cd fastapi-app-example  
+git clone https://github.com/Ksaers/fastapi-app.git
 ```
 Create new environment:
 
@@ -39,8 +39,8 @@ Run tests:
 export IS_TEST=True && pytest tests
 ```
 
-Run docker app container
+Go to application
 
 ```
-docker-compose up
+http://127.0.0.1:8000/docs
 ```
