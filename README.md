@@ -1,7 +1,7 @@
 ### FastApi 
 Clone this repo:
 ```
-git clone https://github.com/Ksaers/fastapi-app.git
+git clone https://github.com/Ksaers/FastApi.git
 ```
 Create new environment:
 
