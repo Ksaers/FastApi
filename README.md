@@ -26,7 +26,11 @@ Copy or create config file `.env`:
 ```
 cp .env.example .env
 ```
+Transition to the launch of the project:
 
+```
+cd app
+```
 Run project:
 
 ```
